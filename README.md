@@ -13,7 +13,7 @@ While using DL, we achieved an accuracy of ~70%.
 
 Overall achieved 80% accuracy in predicting the raga for a random audio test file. 
 
-skills: Machine Learning, Deep Learning, Audio Signal Processing, Audio Feature Extraction
+skills: Machine Learning, Deep Learning, Audio Signal Processing, Indian Music
 
 References and Literature Survey:
 • The Youtube lecture series by “Valerio Velardo” titled “Audio Signal Processing
