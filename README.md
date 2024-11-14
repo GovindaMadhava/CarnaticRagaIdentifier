@@ -16,9 +16,10 @@ Overall achieved 80% accuracy in predicting the raga for a random audio test fil
 Skills: Machine Learning, Deep Learning, Audio Signal Processing, Indian Music
 
 References and Literature Survey:
-• The Youtube lecture series by “Valerio Velardo” titled “Audio Signal Processing
+I) The Youtube lecture series by “Valerio Velardo” titled “Audio Signal Processing
 for Machine Learning”: https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=UocScNk12J_dmFWw 
-• Music Information Retrieval: Raga Identification using Machine Learning (IIT
+
+II) Music Information Retrieval: Raga Identification using Machine Learning (IIT
 Madras):
 https://www.iitm.ac.in/donlab/website_files/thesis/MTech/thesis_padma.pdf
 https://publications.iitm.ac.in/publication/classification-of-melodic-motifs-inraga-music-with-time-series-2
