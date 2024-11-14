@@ -7,8 +7,8 @@ Machine Learning models:-
 
 Deep Learning models:- 1) DNNs 2) LSTMs 
 
-Comparing results of Machine Learning classifiers: 
-Logistic Regression (80%) > XGB (~65%) > SVM (~66%) 
+Comparing results of Machine Learning classifiers: Logistic Regression (80%) > XGB (~65%) > SVM (~66%) 
+
 While using DL, an accuracy of ~70% was achieved.
 
 Overall achieved 80% accuracy in predicting the raga for a random audio test file. 
